@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1545411797 source:h:\cse323_project\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<ctime>
+	<cstdlib>
+
