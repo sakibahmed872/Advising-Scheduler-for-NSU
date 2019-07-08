@@ -1,4 +1,4 @@
-Advising Scheduler for NSU
+# Advising Scheduler for NSU
 
 It a CSE323 Project where input will be a list of student's name and ID. system will make a output file of Generated time slot. Each student will get a fixed time for advising.
 
